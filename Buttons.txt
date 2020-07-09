@@ -1,0 +1,20 @@
+# Contents of 'Buttons.txt'
+"ButtonName" "Action"
+
+"Google" "https://www.google.com/"
+"Reddit" "https://www.reddit.com/"
+"Redqqdit" "https://www.redddit.com/"
+"Redwdasdit" "https://www.reddddit.com/"
+"Rewasddit1" "https://www.redddddit.com/"
+"Rewasddit2" "https://www.redddddit.com/"
+"Rewasddit4" "https://www.redddddit.com/"
+"Rewasddit55" "https://www.redddddit.com/"
+"Rewasddit515" "https://www.redddddit.com/"
+"Rewasddit55555" "https://www.redddddit.com/"
+"Rewasddit5555" "https://www.redddddit.com/"
+"Rewasddit33" "https://www.redddddit.com/"
+"Rewasddit333" "https://www.redddddit.com/"
+"Rewasddit3333" "https://www.redddddit.com/"
+"Rewasddit111" "https://www.redddddit.com/"
+"Rewasddit1111" "https://www.redddddit.com/"
+
